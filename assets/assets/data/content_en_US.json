@@ -1,0 +1,88 @@
+{
+  "menu": [
+    "About Jeondeungsa",
+    "Cultural Heritage",
+    "Temple Map",
+    "Events / Notices",
+    "Donation",
+    "언어 Language"
+  ],
+  "history": [
+    {
+      "title": "381\nFounded",
+      "text": "In the 11th year of King Sosurim of Goguryeo, the monk Ado established Jin Jong-sa here, marking the beginning of Jeondeungsa's long history. Over the Three Kingdoms period, this temple grew into an important Buddhist center."
+    },
+    {
+      "title": "1282\nRenamed to Jeondeungsa",
+      "text": "With Queen Jeonghwa's sponsorship, the Chinese Lotus Sutra was enshrined here, and the temple's name was changed to 'Jeondeungsa'. From this time, the temple became a significant place for both doctrinal study and practice in state Buddhism."
+    },
+    {
+      "title": "1621\nMajor Reconstruction",
+      "text": "After fires in 1605 and 1614, large-scale reconstruction began in 1615 and was completed with Monk Jigyeong's ridgepole ceremony in 1621. The present core temple layout dates largely from this period."
+    },
+    {
+      "title": "1726\nRoyal Connection",
+      "text": "King Yeongjo personally bestowed the plaque 'Chwihyangdang (Hall of Drunken Fragrance)', elevating Jeondeungsa's status. This royal attention shows that Jeondeungsa was more than a local temple; it held national significance."
+    },
+    {
+      "title": "18th Century\nNational Role",
+      "text": "At Jeondeungsa, the royal archives (Sago) and granary (Jeongjokchang) were established to safeguard royal records and provisions. This reveals the temple's role in state affairs beyond its religious function."
+    },
+    {
+      "title": "1911\nModern Jeondeungsa",
+      "text": "After the Temple Ordinance of 1911, Jeondeungsa was designated as a head temple overseeing 34 monasteries in Ganghwa, Gaeseong, Gimpo, and beyond. Throughout the 20th century, major halls such as the Main Buddha Hall, Underworld Hall, Daedjoru, and Samseonggak were rebuilt, refining the temple complex."
+    },
+    {
+      "title": "Today\nTradition and the Present",
+      "text": "Jeondeungsa preserves numerous cultural assets, including treasure-class halls, woodblocks, and Buddhist statues. At the same time, through the Samnangseong History and Culture Festival, templestay programs, and cultural experiences, it continues to connect tradition with contemporary life as a living temple."
+    }
+  ],
+  "heritage": [
+    {
+      "imagePath": "assets/page02/UI_Page02_1.jpg",
+      "title": "대웅보전",
+      "description": "보물 제178호\n대웅보전은 1621년에 지어진 정면·측면 3칸 규모의 목조 건물로, 단정한 결구와 정교한 조각 장식으로 조선 중기 건축의 대표작으로 꼽힌다.",
+      "video": "https://youtu.be/O8RkgSDHQ70"
+    },
+    {
+      "imagePath": "assets/page02/UI_Page02_2.jpg",
+      "title": "약사전",
+      "description": "보물 제179호\n약사전은 대웅보전 서쪽에 위치한 조선 중기 다포계열의 정면·측면 3칸 팔작지붕 건물로, 구조와 장식이 대웅보전과 유사하다.",
+      "video": ""
+    },
+    {
+      "imagePath": "assets/page02/UI_Page02_3.jpg",
+      "title": "전등사 철종",
+      "description": "보물 제393호\n1097년 중국 송명사에서 제작된 독특한 형태의 종으로, 일제에 의해 빼앗겼다가 광복 후 되찾아 전등사에 돌아왔다.",
+      "video": ""
+    },
+    {
+      "imagePath": "assets/page02/UI_Page02_4.jpg",
+      "title": "목조석기여래삼불좌상",
+      "description": "1623년 수연()이 수화승으로 참여하여 조성한 삼세불 형식의 불상으로, 본존 석가불은 안정된 비례와 세련된 조각미를 보여준다.",
+      "video": ""
+    },
+    {
+      "imagePath": "assets/page02/UI_Page02_5.jpg",
+      "title": "목조지장보살삼존상 및 시왕상 일괄",
+      "description": "전등사 명부전의 지장보살상과 권속 31구는 1636년에 조성되었으며, 지장삼존상과 시왕상은 독특하고 아름다운 조형미를 지니며 보존 상태도 양호하다.",
+      "video": ""
+    },
+    {
+      "imagePath": "assets/page02/UI_Page02_6.jpg",
+      "title": "묘법연화경 목판",
+      "description": "1543년 정수사에서 복각한 것으로, 대승경전인 법화경을 새긴 104판 411장으로 이루어져 있다. 보존 상태가 양호하나 일부 손상이 있으며, 한국전쟁 때 1판이 유실되었다.",
+      "video": ""
+    },
+    {
+      "imagePath": "assets/page02/UI_Page02_7.jpg",
+      "title": "명경대",
+      "description": "1627년에 제작된 청색·황색 사자가 화염문 거울을 받치는 한 쌍의 불교 목공예품으로, 지옥에서 죄를 비추는 거울을 형상화한 것이다. 조선 후기 불교 목공예 연구의 중요한 자료로 평가된다.",
+      "video": ""
+    }
+  ],
+  "video": {
+    "play": "영상 재생",
+    "notready": "영상 준비 중"
+  }
+}
