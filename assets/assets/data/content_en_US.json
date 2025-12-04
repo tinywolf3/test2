@@ -40,49 +40,63 @@
   "heritage": [
     {
       "imagePath": "assets/page02/UI_Page02_1.jpg",
-      "title": "대웅보전",
-      "description": "보물 제178호\n대웅보전은 1621년에 지어진 정면·측면 3칸 규모의 목조 건물로, 단정한 결구와 정교한 조각 장식으로 조선 중기 건축의 대표작으로 꼽힌다.",
-      "video": "https://youtu.be/O8RkgSDHQ70"
+      "title": "Daeungbojeon Hall",
+      "description": "Treasure No. 178\nDaeungbojeon Hall, built in 1621, is a wooden building with a 3-bay front and side. It is considered a masterpiece of mid-Joseon architecture due to its neat structure and exquisite carving decorations.",
+      "video": ""
     },
     {
       "imagePath": "assets/page02/UI_Page02_2.jpg",
-      "title": "약사전",
-      "description": "보물 제179호\n약사전은 대웅보전 서쪽에 위치한 조선 중기 다포계열의 정면·측면 3칸 팔작지붕 건물로, 구조와 장식이 대웅보전과 유사하다.",
+      "title": "Yaksajeon Hall",
+      "description": "Treasure No. 179\nYaksajeon Hall, located west of Daeungbojeon Hall, is a 3-bay paljak-jiibung building of the mid-Joseon period with a multi-bracket system. Its structure and decoration are similar to those of Daeungbojeon Hall.",
       "video": ""
     },
     {
       "imagePath": "assets/page02/UI_Page02_3.jpg",
-      "title": "전등사 철종",
-      "description": "보물 제393호\n1097년 중국 송명사에서 제작된 독특한 형태의 종으로, 일제에 의해 빼앗겼다가 광복 후 되찾아 전등사에 돌아왔다.",
+      "title": "Jeondeungsa Iron Bell",
+      "description": "Treasure No. 393\nA uniquely shaped bell produced in Songmyeongsa, China in 1097. It was taken by the Japanese during the colonial period and returned to Jeondeungsa after liberation.",
       "video": ""
     },
     {
       "imagePath": "assets/page02/UI_Page02_4.jpg",
-      "title": "목조석기여래삼불좌상",
-      "description": "1623년 수연()이 수화승으로 참여하여 조성한 삼세불 형식의 불상으로, 본존 석가불은 안정된 비례와 세련된 조각미를 보여준다.",
+      "title": "Wooden Seokgiyorae Sambul Jwasang (Three Buddhas Statue)",
+      "description": "This is a statue of three Buddhas (Samsebul) created in 1623 with Suyeon participating as the chief monk. The main Buddha, Sakyamuni Buddha, shows stable proportions and refined sculptural beauty.",
       "video": ""
     },
     {
       "imagePath": "assets/page02/UI_Page02_5.jpg",
-      "title": "목조지장보살삼존상 및 시왕상 일괄",
-      "description": "전등사 명부전의 지장보살상과 권속 31구는 1636년에 조성되었으며, 지장삼존상과 시왕상은 독특하고 아름다운 조형미를 지니며 보존 상태도 양호하다.",
+      "title": "Wooden Jijangbosal Samjon Sang and Siwang Sang Ilgwal (Bodhisattva of Earth Store Triad and Ten Kings of Hell)",
+      "description": "The statue of Jijangbosal and 31 attendants in Jeondeungsa Myeongbujeon Hall were created in 1636. The Jijang Samjon Sang and Siwang Sang have unique and beautiful sculptural aesthetics and are well preserved.",
       "video": ""
     },
     {
       "imagePath": "assets/page02/UI_Page02_6.jpg",
-      "title": "묘법연화경 목판",
-      "description": "1543년 정수사에서 복각한 것으로, 대승경전인 법화경을 새긴 104판 411장으로 이루어져 있다. 보존 상태가 양호하나 일부 손상이 있으며, 한국전쟁 때 1판이 유실되었다.",
+      "title": "Myobeopyeonhwagyeong Woodblocks",
+      "description": "These are 104 plates and 411 sheets of the Lotus Sutra, a Mahayana scripture, re-engraved at Jeongsu Temple in 1543. The preservation is good, but there is some damage, and one plate was lost during the Korean War.",
       "video": ""
     },
     {
       "imagePath": "assets/page02/UI_Page02_7.jpg",
-      "title": "명경대",
-      "description": "1627년에 제작된 청색·황색 사자가 화염문 거울을 받치는 한 쌍의 불교 목공예품으로, 지옥에서 죄를 비추는 거울을 형상화한 것이다. 조선 후기 불교 목공예 연구의 중요한 자료로 평가된다.",
+      "title": "Myeonggyeongdae (Mirror Stand)",
+      "description": "A pair of Buddhist wooden crafts made in 1627, depicting blue and yellow lions supporting a mirror with flame patterns. It symbolizes the mirror that reflects sins in hell and is considered important material for studying Buddhist wooden crafts of the late Joseon Dynasty.",
       "video": ""
     }
   ],
   "video": {
-    "play": "영상 재생",
-    "notready": "영상 준비 중"
+    "play": "Play Video",
+    "notready": "Video not ready"
+  },
+  "pay": {
+    "title": "You can make offerings using KakaoPay QR code.",
+    "step": [
+      "1. Launch the KakaoTalk app.",
+      "2. Tap the '...' (three dots) button at the bottom of the screen.",
+      "3. Select 'Transfer'.",
+      "4. Select the 'Scan Code' icon (QR code shape) at the bottom.",
+      "5. When the camera is activated, scan the QR code below within the square frame.",
+      "6. Once scanned, you will be directed to the transfer screen. Enter the amount and complete the transfer."
+    ],
+    "icon": "assets/page05/kakaopay.png",
+    "qr": "assets/page05/QR.png",
+    "footer": "Your devotion will be treasured and used for dharma ceremonies and temple operations."
   }
 }
