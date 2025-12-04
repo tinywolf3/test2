@@ -1,4 +1,8 @@
 {
+  "idle": {
+    "delay": 600,
+    "slide": 10
+  },
   "menu": [
     "浄登寺について",
     "主な文化財",
@@ -42,7 +46,7 @@
       "imagePath": "assets/page02/UI_Page02_1.jpg",
       "title": "大雄宝殿",
       "description": "宝物第178号\n大雄宝殿は1621年に建立された正面・側面3間の木造建築で、整然とした構造と精巧な彫刻装飾が朝鮮中期建築の傑作とされています。",
-      "video": ""
+      "video": "https://youtu.be/O8RkgSDHQ70"
     },
     {
       "imagePath": "assets/page02/UI_Page02_2.jpg",
@@ -98,5 +102,185 @@
     "icon": "assets/page05/kakaopay.png",
     "qr": "assets/page05/QR.png",
     "footer": "信徒の皆様の真心が、法会と寺院運営に大切に使われます。"
-  }
+  },
+  "map": [
+    {
+      "name": "大雄宝殿",
+      "popup": "assets/page03/UI_Page03_PopUp_1.png",
+      "x": 4520.0,
+      "y": 2518.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "薬師殿",
+      "popup": "assets/page03/UI_Page03_PopUp_2.png",
+      "x": 4245.0,
+      "y": 2472.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "観音殿",
+      "popup": "assets/page03/UI_Page03_PopUp_3.png",
+      "x": 4380.0,
+      "y": 2476.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "冥府殿",
+      "popup": "assets/page03/UI_Page03_PopUp_4.png",
+      "x": 4116.0,
+      "y": 2541.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "三聖閣",
+      "popup": "assets/page03/UI_Page03_PopUp_5.png",
+      "x": 4097.0,
+      "y": 2171.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "寺務所",
+      "popup": "assets/page03/UI_Page03_PopUp_6.png",
+      "x": 4076.0,
+      "y": 2934.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "竹林茶院",
+      "popup": "assets/page03/UI_Page03_PopUp_7.png",
+      "x": 4592.0,
+      "y": 3115.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "鐘楼",
+      "popup": "assets/page03/UI_Page03_PopUp_8.png",
+      "x": 4423.0,
+      "y": 2784.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "梵鐘",
+      "popup": "assets/page03/UI_Page03_PopUp_9.png",
+      "x": 4113.0,
+      "y": 2768.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "鼎足史庫",
+      "popup": "assets/page03/UI_Page03_PopUp_10.png",
+      "x": 2887.0,
+      "y": 2468.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "梁憲洙碑",
+      "popup": "assets/page03/UI_Page03_PopUp_11.png",
+      "x": 6184.0,
+      "y": 2567.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "対潮楼",
+      "popup": "assets/page03/UI_Page03_PopUp_12.png",
+      "x": 4534.0,
+      "y": 2725.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "浮屠殿",
+      "popup": "assets/page03/UI_Page03_PopUp_13.png",
+      "x": 5329.0,
+      "y": 3647.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "選仏場",
+      "popup": "assets/page03/UI_Page03_PopUp_14.png",
+      "x": 5112.0,
+      "y": 2453.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "無説殿",
+      "popup": "assets/page03/UI_Page03_PopUp_15.png",
+      "x": 4253.0,
+      "y": 3161.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "教育館",
+      "popup": "assets/page03/UI_Page03_PopUp_16.png",
+      "x": 5432.0,
+      "y": 2232.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "酔香堂",
+      "popup": "assets/page03/UI_Page03_PopUp_17.png",
+      "x": 3225.0,
+      "y": 2308.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    },
+    {
+      "name": "南門",
+      "popup": "assets/page03/UI_Page03_PopUp_18.png",
+      "x": 5842.0,
+      "y": 3288.0,
+      "zoom": 1.0,
+      "offset_x": 342.0,
+      "offset_y": 394.0
+    }
+  ],
+  "gps": [
+    {
+      "name": "酔香堂",
+      "x": 3225.0,
+      "y": 2308.0,
+      "latitude": 37.632106,
+      "longitude": 126.483082
+    },
+    {
+      "name": "南門",
+      "x": 5842.0,
+      "y": 3288.0,
+      "latitude": 37.631510,
+      "longitude": 126.486925
+    }
+  ]
 }
